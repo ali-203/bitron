@@ -27,7 +27,7 @@ function App() {
                 </div>
                 <div className="button_div">
                     <button className="tele">TELEGRAM</button>
-                    <button>SMART CONTRACT</button>
+                    <button className="smart_contract">SMART CONTRACT</button>
                 </div>
             </div>
             <div className="image">
