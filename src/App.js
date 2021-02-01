@@ -25,8 +25,8 @@ function App() {
                     <h2 className="verified">100% VERIFIED SMART CONTRACT</h2>
                     <h3 className="daily">18.28% Daily ROI128% IN 7 DAYS</h3>
                 </div>
-                <div className="button">
-                    <button>TELEGRAM</button>
+                <div className="button_div">
+                    <button className="tele">TELEGRAM</button>
                     <button>SMART CONTRACT</button>
                 </div>
             </div>

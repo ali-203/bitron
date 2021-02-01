@@ -3,14 +3,15 @@
 
 }
   .image{
-      margin-top: 25%;
+      margin-top: 35%;
       margin-left: 10%;
     
 
   }
   .decentrlized {
-      margin-top: 17%;
+      margin-top: 20%;
     margin-left: 130px;
+    
   }
   .smart {
     margin-left: 130px;
@@ -44,6 +45,25 @@
     font-weight: bold;
     font-size: 20px;
   }
+  .button_div{
+  margin-left: 130px;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  
+
+}
+.tele{
+    
+    background-color: royalblue;
+    height: 50px;
+
+}
   
   
 
