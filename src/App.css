@@ -1,10 +1,22 @@
-*{
-    margin: 0;
-    padding: 0;
+.main {
+    display: flex;
+
+}
+  .image{
+      margin-top: 25%;
+      margin-left: 10%;
     
+
+  }
+  .decentrlized {
+      margin-top: 17%;
+    margin-left: 130px;
+  }
+  .smart {
+    margin-left: 130px;
   }
   
+
   
-  
-  
+
   
