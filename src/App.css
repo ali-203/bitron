@@ -14,6 +14,7 @@
   }
   .smart {
     margin-left: 130px;
+    margin-top: 15%;
   }
   
   .button{
@@ -21,10 +22,28 @@
 
   }
   .vrtl{
-      border: 4px solid red;
-      width: 20%;
+      border: 3px solid red;
+      background-color: red;
+      border-radius: 2px;
+      width: 30%;
+      margin-left: 10%;
   }
-      
+  .vrtl2{
+    border-radius: 2px;
+    border: 3px solid red;
+    width: 30%;
+    background-color: red;
+  }
+  .bi {
+      margin-left: 20%;
+      font-weight: bold;
+      font-size: 20px;
+  }
+  .tron {
+    margin-left: 13%;
+    font-weight: bold;
+    font-size: 20px;
+  }
   
   
 

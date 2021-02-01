@@ -6,16 +6,18 @@ function App() {
     return (
         <div className="main">
             <div className="bitron_main">
-                <div className="smart"> <p>SMART</p>
+                <div className="smart">
+                 <p>SMART</p>
                     <div className="vrtl"></div>
                 
                 <div className="bi"> <h1>BI</h1></div>
                 <div className="tron"> <h1>TRON</h1></div>
                 <div className="vrtl2">
+                </div>
                     <div>
                         <p>CONTRACT</p>
                     </div>
-                    </div>
+                    
                 </div>
                 <div className="decentrlized">
                     <h1 className="best">BEST DECENTRALIZED</h1>
