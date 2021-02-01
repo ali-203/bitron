@@ -7,14 +7,15 @@ function App() {
         <div className="main">
             <div className="bitron_main">
                 <div className="smart">
-                 <p>SMART</p>
+                <div className="smrt">
+                 <p>SMART</p></div>
                     <div className="vrtl"></div>
                 
                 <div className="bi"> <h1>BI</h1></div>
                 <div className="tron"> <h1>TRON</h1></div>
                 <div className="vrtl2">
                 </div>
-                    <div>
+                    <div className="contrct">
                         <p>CONTRACT</p>
                     </div>
                     
