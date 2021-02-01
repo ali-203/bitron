@@ -1,8 +1,15 @@
+
+body{
+    width: 100%;
+    height: 100%;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCmkHl9BBAbZwSGYWcMwRZgZNmWzV_1yG2eg&usqp=CAU)
+}
 .main {
     display: flex;
 
 }
   .image{
+    
       margin-top: 35%;
       margin-left: 10%;
     
@@ -46,7 +53,6 @@
     font-size: 20px;
   }
   .button_div{
-      
   margin-left: 110px;
   color: white;
   font-size: 16px;
