@@ -1,6 +1,6 @@
 import React from 'react';
 import "./App.css";
-import Image from "./images/image.png";
+// import Image from "../public/images/money.png";
 
 function App() {
     return (
@@ -33,7 +33,8 @@ function App() {
                 </div>
             </div>
             <div className="image">
-                <img src={Image} />
+            {/* <img src="/images/img.png" /> */}
+               
             </div>
         </div>
         <div className="main2">
