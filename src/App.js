@@ -4,6 +4,7 @@ import Image from "./images/image.png";
 
 function App() {
     return (
+        <>
         <div className="main">
             <div className="bitron_main">
                 <div className="smart">
@@ -35,6 +36,27 @@ function App() {
                 <img src={Image} />
             </div>
         </div>
+        <div className="main2">
+        <div className="global">
+        <h1>Global Stats</h1>
+        </div>
+        <div className="three_div">
+        <h1>0</h1>
+        <h2>Total Invested TRX</h2>
+        <div className="total_trx">
+            <h1>0</h1>
+            <h2>Total Investors</h2>
+        </div>
+        <div className="total_invested">
+            <h1>0</h1>
+            <h2>Total Dividends</h2>
+        </div>
+        <div className="total_dividen"></div>
+        
+        </div>
+
+        </div>
+        </>
     )
 }
 
